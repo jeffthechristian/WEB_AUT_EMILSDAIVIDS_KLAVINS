@@ -1,0 +1,19 @@
+{
+  "name": "web_aut_emilsdaivids_klavins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffthechristian/WEB_AUT_EMILSDAIVIDS_KLAVINS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffthechristian/WEB_AUT_EMILSDAIVIDS_KLAVINS/issues"
+  },
+  "homepage": "https://github.com/jeffthechristian/WEB_AUT_EMILSDAIVIDS_KLAVINS#readme"
+}
